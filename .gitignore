@@ -1,0 +1,12 @@
+/.vscode/
+
+/code/.vscode
+
+/code/main
+
+/code/pr
+
+/tests/__pycache__
+
+*.exe
+*.o
